@@ -93,6 +93,7 @@ nav a:hover::before {
     margin: 20px auto 20px auto;
     background-color: white;
     padding:20px;
+    margin-bottom: 100px;
 }
 
 .skillz {
@@ -115,7 +116,7 @@ li {
 
 }
 
-#about {
+h1 {
     color: #4aaaa5;
     padding: 0;
     margin: 1% 0 1% 0;
@@ -191,9 +192,5 @@ input[type=submit]:hover {
 }
 
 .contact {
-  
     margin:auto;
-
 }
-
-
